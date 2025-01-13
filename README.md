@@ -30,8 +30,8 @@ The task is to:
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/image-inpainting-unet.git
-cd image-inpainting-unet
+git clone https://github.com/linhlinhle997/domain-conversion-unet.git
+cd domain-conversion-unet
 ```
 
 2. Open and run the provided `inpainting_image_unet.ipynb` notebook to train, test, and evaluate the model on the dataset.

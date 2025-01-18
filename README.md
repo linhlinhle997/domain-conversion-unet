@@ -41,6 +41,10 @@ After training, the models will display visualizations comparing the original an
 
 - The **Super Resolution with U-Net** will show the comparison between low-resolution inputs and their high-resolution outputs.
 
+![Super Resolution Image](results/sr_image.png)
+
 - The **Image Inpainting with U-Net** will show images before and after line removal.
+
+![Image Inpainting](results/ip_image.png)
 
 These models highlight the effectiveness of U-Net in both image restoration and upscaling tasks, providing valuable insights into the use of deep learning for image processing.
